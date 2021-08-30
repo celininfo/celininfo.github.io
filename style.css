@@ -39,11 +39,38 @@ html, body {
 
 .show {display: block;}
 
+.info {
+  position: relative;
+  padding-top: 8%;
+  left:37%;
+  width: 360px;
+  text-align: center;
+}
+
 
 .maillink {
-    text-decoration: none;
+    text-decoration: underline;
     color: blue;
+    text-align: center; 
+    position: relative; 
+    display: block; 
+    margin-top: 30px;
 }
   .maillink:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
+
+  input[type=text], input[type=submit] {
+  width: 80px;
+  padding: 6px;
+  margin-top: 10px;
+  display: inline-block;
+  box-sizing: border-box;-box;
+  background-color: grey;
+  color: white;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.5;
+}
