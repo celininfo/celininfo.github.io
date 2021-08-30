@@ -13,9 +13,9 @@ html, body {
 .dropdown {
   position: relative;
   padding-top: 8%;
-  left:37%;
   width: 360px;
   text-align: center;
+  margin: 0 auto;
 }
 
 .dropdown-content {
@@ -42,9 +42,9 @@ html, body {
 .info {
   position: relative;
   padding-top: 8%;
-  left:37%;
   width: 360px;
   text-align: center;
+  margin: 0 auto;
 }
 
 
