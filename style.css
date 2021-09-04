@@ -46,6 +46,13 @@ html, body {
   margin: 0 auto;
 }
 
+.info {
+  position: relative;
+  padding-top: 0;
+  text-align: center;
+  margin: 0 auto;
+}
+
 
 .maillink {
     text-decoration: underline;
