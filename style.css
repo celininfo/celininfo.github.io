@@ -48,11 +48,36 @@ html, body {
 
 .plakat {
   position: relative;
-  padding-top: 0;
+  padding-top: 0%;
   text-align: center;
   margin: 0 auto;
 }
 
+.udstilling {
+  position: relative;
+  padding-top: 1%;
+  width: 60vw;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.doku {
+  position: relative;
+  padding-top: 2vw;
+  padding-bottom: 3vw;
+  width: 60vw;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.press {
+  position: relative;
+  padding-top: 2vw;
+  padding-bottom: 1vw;
+  width: 60vw;
+  text-align: center;
+  margin: 0 auto;
+}
 
 .maillink {
     text-decoration: underline;
