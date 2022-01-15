@@ -81,6 +81,16 @@ html, body {
   margin: 0 auto;
 }
 
+.doku3 {
+  position: relative;
+  padding-top: 2vw;
+  padding-bottom: 0vw;
+  width: 60vw;
+  margin: 0 auto;
+  font-size: 8px;
+}
+
+
 .press {
   position: relative;
   padding-top: 2vw;
